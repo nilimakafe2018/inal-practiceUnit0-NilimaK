@@ -3,6 +3,7 @@
 //Create a folder and add the required files in VS Code:
 //manifest.json, content.js, index.html, icon.png
 //Build the extension by writing code in manifest.json and content.js
+//add icon for extension
 //In Chrome, chrome://extensions
 //Turn on Developer Mode
 //Click "Load unpacked" and upload my FeedbackGPT folder, I have to make sure that my extension is loaded and working correctly
